@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97a407a3-da9b-4993-bbfa-bfe9abd6f42f" name="Changes" comment="MasterBR">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="97a407a3-da9b-4993-bbfa-bfe9abd6f42f" name="Changes" comment="MasterBR ver1.1">
+      <change beforePath="$PROJECT_DIR$/src/main/java/Description.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Description.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +13,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -46,7 +52,28 @@
       <option name="project" value="LOCAL" />
       <updated>1653763797399</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="MasterBR ver1.1">
+      <created>1653766049617</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1653766049617</updated>
+    </task>
+    <task id="LOCAL-00003" summary="MasterBR ver1.1">
+      <created>1653766066509</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1653766066509</updated>
+    </task>
+    <task id="LOCAL-00004" summary="MasterBR ver1.1">
+      <created>1653766126858</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1653766126858</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -62,6 +89,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="MasterBR" />
-    <option name="LAST_COMMIT_MESSAGE" value="MasterBR" />
+    <MESSAGE value="MasterBR ver1.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="MasterBR ver1.1" />
   </component>
 </project>
